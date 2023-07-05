@@ -1,0 +1,17 @@
+apiVersion: v1
+entries:
+  crabstash:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2023-07-05T22:15:52.211633+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 9411858ea5a1bca9c37e2f09bb9e335b01ceca7a83359fe5840fe3715441636e
+    maintainers:
+    - email: crabstash@proton.me
+      name: crabstash
+    name: crabstash
+    type: application
+    urls:
+    - crabstash-0.1.1.tgz
+    version: 0.1.1
+generated: "2023-07-05T22:15:52.210335+02:00"
